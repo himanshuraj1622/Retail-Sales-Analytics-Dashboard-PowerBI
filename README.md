@@ -150,6 +150,5 @@ enabling faster and more focused business analysis.
 * **Executive Reporting:** Delivers an interactive dashboard that supports faster, data-driven business decisions through real-time KPI tracking and visual analytics.
 
 ## Demo
-https://github.com/himanshuraj1622/Retail-Sales-Analytics-Dashboard-PowerBI/blob/main/PowerBI-Retail-Sales-Analytics.png
-
+![Dashboard Preview](https://github.com/himanshuraj1622/Retail-Sales-Analytics-Dashboard-PowerBI/blob/main/PowerBI-Retail-Sales-Analytics.png)
 
